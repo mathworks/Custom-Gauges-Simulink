@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info description="Library of custom gauges including:&#xa;- Thermometer&#xa;- Battery&#xa;- Ampmeter&#xa;- Hydraulic Cylinder&#xa;- Pressure Gauge&#xa;- Gate Valve&#xa;- On/Off Valve&#xa;- Water Tank&#xa;&#xa;Visit this blog post to learn how to create your own:&#xa;&#xa;https://blogs.mathworks.com/simulink/2020/11/02/creating-custom-gauges/" />
